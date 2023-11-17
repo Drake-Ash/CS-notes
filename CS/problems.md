@@ -269,7 +269,7 @@ filters:
           value: "template"
           type: text
       - condition: AND
-        disabled: true
+        disabled: false
         label: "remove finished"
         color: "hsl(116,34%,25%)"
         filters:
