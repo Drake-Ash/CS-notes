@@ -3,7 +3,7 @@ tags:
   - dsa
   - DP
 To_review: true
-Status: Complete | Pending review
+Status: Review again
 Link: "[leetcode](https://leetcode.com/problems/delete-and-earn/description/)"
 Time_in_minutes: 30
 Difficulty: medium
