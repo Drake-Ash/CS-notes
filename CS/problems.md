@@ -242,7 +242,7 @@ config:
   show_metadata_tags: true
   source_data: tag
   source_form_result: "#dsa"
-  source_destination_path: notes/CS/Problems
+  source_destination_path: CS/Problems
   row_templates_folder: templates
   current_row_template: templates/Problems template.md
   pagination_size: 200
