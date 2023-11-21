@@ -1,0 +1,19 @@
+---
+tags:
+  - dsa
+To_review: true
+Status: Pending
+Link: "[leetcode]()"
+Time_in_minutes: 
+Difficulty:
+---
+# Problem
+## Description
+
+## My solution
+
+## Optimal solution
+```cpp
+
+```
+## Notes
